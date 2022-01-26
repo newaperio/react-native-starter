@@ -175,6 +175,7 @@ ReactNativeStarter is built by [NewAperio], LLC.
 [brew-android-studio]: https://formulae.brew.sh/cask/android-studio
 [android-10]: https://developer.android.com/about/versions/10/setup-sdk
 [contributing guide]: https://github.com/newaperio/guides/blob/master/contributing/README.md
+[typescript language server]: https://github.com/typescript-language-server/typescript-language-server
 [testing guide]: https://github.com/newaperio/guides/blob/master/testing/README.md
 [react native starter]: https://github.com/newaperio/react-native-starter
 [newaperio]: https://newaperio.com
