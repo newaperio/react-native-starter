@@ -1,8 +1,8 @@
-- [ ] Look over your code one last time.
-- [ ] Test all functionality you expect to be QA'd.
-- [ ] Describe what changes this PR includes.
-- [ ] Post screenshots for design review if applicable.
-- [ ] Fill in QA Notes listing clear, ordered steps for testers.
+- [ ] Look over your code one last time
+- [ ] Test all functionality you expect to be QA'd
+- [ ] Describe what changes this PR includes
+- [ ] Post screenshots for design review if applicable
+- [ ] Fill in QA Notes listing clear, ordered steps for testers
 
 ## Description
 
@@ -12,7 +12,7 @@ Closes [sc-xxx].
 
 ## Screenshots
 
-[add screenshots here]
+[Add screenshots here]
 
 ## QA Notes
 
