@@ -16,9 +16,11 @@ Closes [sc-xxx].
 
 ## QA Notes
 
-PR Author Browser Info:
+PR Author Device Info:
 
 ```
+QA Tester Device Info:
+
 ## Environment Setup
 
 - [ ] [Add necessary environment setup, e.g. whether to update dependencies, OR specify none]
